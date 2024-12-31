@@ -10,7 +10,7 @@ export default function Home() {
           hey, i'm eddy xu
         </h1>
         <p className="text-base mb-6">
-          i build things that help lots of people. my singular goal is to have a net-positive impact before agi changes everything.
+          i build things to help lots of people. my singular goal is to have a net-positive impact before agi changes everything.
         </p>
 
         {/* Current */}
@@ -38,7 +38,7 @@ export default function Home() {
             </div>
           </div>
           <div>
-            <p>won some cool competitions</p>
+            <p>won some competitions</p>
             <div className="ml-4 mt-1 space-y-0.5">
               <p>—vex robotics national champion (10k teams)</p>
               <p>—deca world champion (200k competitors)</p>
@@ -52,13 +52,12 @@ export default function Home() {
           <p>attention</p>
           <p>long games</p>
           <p>startups</p>
-          <p className="mt-1">check out my essays where i explore these ideas</p>
         </div>
 
         {/* Connect */}
+        <h2 className="text-xl font-medium mb-2">contact:</h2>
         <div className="border-t border-gray-200 pt-6">
-          <p className="mb-2">wanna hypergamble into greatness before AGI makes us permanent underclass?</p>
-          <p className="mb-4">feel free to reach out!</p>
+          <p className="mb-2">wanna hypergamble into greatness before AGI makes us permanent underclass? let's get in touch!</p>
           <div>
             <p className="mb-2">edwardxu1569@gmail.com</p>
             <div className="flex items-center space-x-4">
